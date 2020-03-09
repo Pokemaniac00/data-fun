@@ -1,0 +1,2 @@
+I have started reading a book on data science and decided to start having some fun programming some small projects on the side. 
+This project is for moving files to folders based on the results of reading each file's contents to determine if they are good or bad files based on predetermined keywords.
